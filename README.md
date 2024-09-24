@@ -19,10 +19,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a> 
-  <!-- Deepchecks -->
-  <a href="https://github.com/deepchecks/deepchecks" target="_blank" rel="noreferrer">
-    <img src="https://deepchecks.com/wp-content/uploads/2021/11/deepchecks.png" alt="Deepchecks" width="40" height="40"/>
-  </a>
   <!-- Streamlit -->
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/>
@@ -39,13 +35,9 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
-  <!-- Regex (Bu kısımda Regex için resmi bir simge bulamadım) -->
-  <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer">
-    <img src="https://www.iconfinder.com/data/icons/logos-and-brands/512/145_Regex_logo_logos-512.png" alt="Regex" width="40" height="40"/>
-  </a>
   <!-- SciPy -->
   <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/>
+    <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40"/>
   </a> 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
@@ -72,11 +64,11 @@
   </a>
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tableau.com/sites/default/files/pages/tableau_revised_100x100_0.png" alt="Tableau" width="40" height="40"/>
+    <img src="https://www.newgenapps.com/hubfs/Imported_Blog_Media/tableau-1.jpg" alt="Tableau" width="40" height="40"/>
   </a>
   <!-- Google Sheets -->
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Sheets_2020_Logo.svg" alt="Google Sheets" width="40" height="40"/>
+    <img src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d61_646e04919c3fa7c2380ae837_Google_Sheets_logo_(2014-2020).svg.png" alt="Google Sheets" width="40" height="40"/>
   </a>
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -94,10 +86,6 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" alt="Jira" width="40" height="40"/>
   </a> 
-  <!-- Agile Methodologies (Bu kısımda Agile için resmi bir simge bulamadım) -->
-  <a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/agile-1.svg" alt="Agile Methodologies" width="40" height="40"/>
-  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrebiyik&show_icons=true&locale=en&layout=compact" alt="emrebiyik" /></p>
