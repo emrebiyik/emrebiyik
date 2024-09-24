@@ -1,16 +1,105 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://camo.githubusercontent.com/a2fb626ffa877649b899916221b7eb45499a68eeebdf6450b6ca187916af9cb2/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6669742f742f313630302f3438302f302a31694944624c6333593371354b526b622e676966" alt="Emre Biyik GIF" width="500" />
+</p>
 
-<!--
-**emrebiyik/emrebiyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebiyik&label=Profile%20views&color=0e75b6&style=flat" alt="emrebiyik" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **data analysis & visualization projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **biyikemre@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/emrebiyik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrebiyik" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a> 
+  <!-- Deepchecks -->
+  <a href="https://github.com/deepchecks/deepchecks" target="_blank" rel="noreferrer">
+    <img src="https://deepchecks.com/wp-content/uploads/2021/11/deepchecks.png" alt="Deepchecks" width="40" height="40"/>
+  </a>
+  <!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/>
+  </a>
+  <!-- TensorFlow-Keras -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow-Keras" width="40" height="40"/>
+  </a> 
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a> 
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <!-- Regex (Bu kısımda Regex için resmi bir simge bulamadım) -->
+  <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer">
+    <img src="https://www.iconfinder.com/data/icons/logos-and-brands/512/145_Regex_logo_logos-512.png" alt="Regex" width="40" height="40"/>
+  </a>
+  <!-- SciPy -->
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/>
+  </a> 
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <!-- SQL -->
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="SQL" width="40" height="40"/>
+  </a> 
+  <!-- HTML & CSS -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <!-- MS SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40"/>
+  </a>
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.tableau.com/sites/default/files/pages/tableau_revised_100x100_0.png" alt="Tableau" width="40" height="40"/>
+  </a>
+  <!-- Google Sheets -->
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Sheets_2020_Logo.svg" alt="Google Sheets" width="40" height="40"/>
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a> 
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+  </a> 
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" alt="Jira" width="40" height="40"/>
+  </a> 
+  <!-- Agile Methodologies (Bu kısımda Agile için resmi bir simge bulamadım) -->
+  <a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/agile-1.svg" alt="Agile Methodologies" width="40" height="40"/>
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrebiyik&show_icons=true&locale=en&layout=compact" alt="emrebiyik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrebiyik&show_icons=true&locale=en" alt="emrebiyik" /></p>
