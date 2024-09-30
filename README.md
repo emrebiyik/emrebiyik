@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **data analysis & visualization projects**
 
-- 📫 How to reach me **biyikemre@gmail.com**
+- 📫 Feel free to reach me at: **biyikemre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
