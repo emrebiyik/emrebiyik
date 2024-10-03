@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a2fb626ffa877649b899916221b7eb45499a68eeebdf6450b6ca187916af9cb2/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6669742f742f313630302f3438302f302a31694944624c6333593371354b526b622e676966" alt="Emre Biyik GIF" width="500" />
+  <img src="https://github.com/emrebiyik/emrebiyik/blob/5f1f0f8cce5ddab6bf3b08bda2fc76923c3f0722/photo" alt="Emre Biyik GIF" width="500" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebiyik&label=Profile%20views&color=0e75b6&style=flat" alt="emrebiyik" /> </p>
