@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/emrebiyik/emrebiyik/blob/5f1f0f8cce5ddab6bf3b08bda2fc76923c3f0722/photo" alt="Emre Biyik GIF" width="%100" />
+  <img src="https://github.com/emrebiyik/emrebiyik/blob/2ea998de7344cd382bfd316ec68079ae8a486aca/github.jpg" alt="Emre Biyik GIF" width="%100" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebiyik&label=Profile%20views&color=0e75b6&style=flat" alt="emrebiyik" /> </p>
