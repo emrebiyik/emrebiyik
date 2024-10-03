@@ -1,8 +1,19 @@
 <p align="center">
-  <img src="https://github.com/emrebiyik/emrebiyik/blob/2ea998de7344cd382bfd316ec68079ae8a486aca/github.jpg" alt="Emre Biyik GIF" width="%100" />
+  <img src="https://github.com/emrebiyik/emrebiyik/blob/2ea998de7344cd382bfd316ec68079ae8a486aca/github.jpg" alt="Emre Biyik GIF" width="100%" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebiyik&label=Profile%20views&color=0e75b6&style=flat" alt="emrebiyik" /> </p>
+<h2 align="center">About Me</h2>
+<p align="left">
+Having 7+ years of experience across finance, banking, accounting and human resources and offering a diverse skill set. Additionally, 1+ years of expertise in IT and data analysis.
+</p>
+
+<p align="left">
+Applied Exploratory Data Analysis (EDA) using Python, incorporating data cleaning, feature engineering, and in-depth analysis. Utilized libraries such as NumPy, Pandas, and SciPy to optimize datasets. Employed SQL for data extraction and manipulation and leveraged Tableau for advanced visualization techniques. Tools like Seaborn and Matplotlib were used for data visualization, while significance testing was conducted to drive business intelligence insights. Additionally, strong communication, problem-solving abilities, and a proactive approach enable effective collaboration and the successful execution of data-driven solutions.
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=emrebiyik&label=Profile%20views&color=0e75b6&style=flat" alt="emrebiyik" /> 
+</p>
 
 - 🔭 I’m currently working on **data analysis & visualization projects**
 
@@ -10,7 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emrebiyik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrebiyik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emrebiyik" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrebiyik" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
