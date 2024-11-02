@@ -4,11 +4,11 @@
 
 <h2 align="center">About Me</h2>
 <p align="left">
-Having 7+ years of experience across finance, banking, accounting and human resources and offering a diverse skill set. Additionally, 1+ years of expertise in IT and data analysis.
+  Having 7+ years of experience across finance, banking, accounting, and human resources, I bring a diverse skill set that enhances my capabilities in data analysis. Additionally, I have 1+ years of specialized expertise in IT and data analysis, enabling me to interpret complex datasets and drive data-informed decisions.
 </p>
 
 <p align="left">
-Applied Exploratory Data Analysis (EDA) using Python, incorporating data cleaning, feature engineering, and in-depth analysis. Utilized libraries such as NumPy, Pandas, and SciPy to optimize datasets. Employed SQL for data extraction and manipulation and leveraged Tableau for advanced visualization techniques. Tools like Seaborn and Matplotlib were used for data visualization, while significance testing was conducted to drive business intelligence insights. Additionally, strong communication, problem-solving abilities, and a proactive approach enable effective collaboration and the successful execution of data-driven solutions.
+  Applied Exploratory Data Analysis (EDA) using Python, including data cleaning, feature engineering, and in-depth analysis. Utilized libraries such as NumPy, Pandas, and SciPy to optimize datasets, and employed SQL for data extraction and manipulation. Leveraged Tableau for advanced visualization techniques, and used tools like Seaborn and Matplotlib for data visualization, while conducting significance testing to drive business intelligence insights. With a strong foundation in machine learning, I have hands-on experience in building models using regression, classification, and clustering algorithms, utilizing Scikit-learn and TensorFlow for predictive analytics. Through hyperparameter tuning and cross-validation, I optimize model performance, supporting strategic decision-making with advanced analytics. Additionally, my strong communication and problem-solving abilities, along with a proactive approach, foster effective collaboration and ensure successful execution of data-driven solutions.
 </p>
 
 <p align="left"> 
