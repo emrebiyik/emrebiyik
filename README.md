@@ -8,7 +8,11 @@
 </p>
 
 <p align="left">
-  Applied Exploratory Data Analysis (EDA) using Python, including data cleaning, feature engineering, and in-depth analysis. Utilized libraries such as NumPy, Pandas, and SciPy to optimize datasets, and employed SQL for data extraction and manipulation. Leveraged Tableau for advanced visualization techniques, and used tools like Seaborn and Matplotlib for data visualization, while conducting significance testing to drive business intelligence insights. With a strong foundation in machine learning, I have hands-on experience in building models using regression, classification, and clustering algorithms, utilizing Scikit-learn and TensorFlow for predictive analytics. Through hyperparameter tuning and cross-validation, I optimize model performance, supporting strategic decision-making with advanced analytics. Additionally, my strong communication and problem-solving abilities, along with a proactive approach, foster effective collaboration and ensure successful execution of data-driven solutions.
+  Applied Exploratory Data Analysis (EDA) using Python, incorporating data cleaning, feature engineering, and in-depth analysis. Utilized libraries such as NumPy, Pandas, and SciPy to optimize datasets. Employed SQL for data extraction and manipulation and leveraged Tableau for advanced visualization techniques. Tools like Seaborn and Matplotlib were used for data visualization, while significance testing was conducted to drive business intelligence insights.
+</p>
+
+<p align="left">
+  With a solid foundation in machine learning, developed hands-on experience in creating models that include regression, classification, and clustering algorithms. Leveraged frameworks such as Scikit-learn and TensorFlow to implement predictive analytics while optimizing model performance through hyperparameter tuning and cross-validation techniques. This experience enables deriving valuable insights and supporting strategic decision-making using advanced analytical methods. Strong communication and problem-solving abilities, coupled with a proactive approach, foster effective collaboration and ensure the successful execution of data-driven solutions.
 </p>
 
 <p align="left"> 
