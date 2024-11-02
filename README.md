@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=emrebiyik&label=Profile%20views&color=0e75b6&style=flat" alt="emrebiyik" /> 
 </p>
 
-- 🔭 I’m currently working on **data analysis & visualization projects**
+- 🔭 I’m currently working on **data analysis & science projects**
 
 - 📫 Feel free to reach me at: **biyikemre@gmail.com**
 
