@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/emrebiyik/emrebiyik/blob/2ea998de7344cd382bfd316ec68079ae8a486aca/github.jpg" alt="Emre Biyik GIF" width="100%" />
+  <img src="https://github.com/emrebiyik/emrebiyik/blob/b715cfd12386f4789b6b0d2738389117c4a7daaa/github.jpg" alt="Emre Biyik GIF" width="100%" />
 </p>
 
 <h2 align="center">About Me</h2>
