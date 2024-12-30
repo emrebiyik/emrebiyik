@@ -4,15 +4,15 @@
 
 <h2 align="center">About Me</h2>
 <p align="left">
-  Having 7+ years of experience across finance, banking, accounting, and human resources, I bring a diverse skill set that enhances my capabilities in data analysis. Additionally, I have 1+ years of specialized expertise in IT and data analysis, enabling me to interpret complex datasets and drive data-informed decisions.
+  7+ years of experience in data analysis within finance, banking, accounting, and human resources, complemented by 1+ year of expertise in Data Science. Diverse skills in developing data-driven solutions.
 </p>
 
 <p align="left">
-  Applied Exploratory Data Analysis (EDA) using Python, incorporating data cleaning, feature engineering, and in-depth analysis. Utilized libraries such as NumPy, Pandas, and SciPy to optimize datasets. Employed SQL for data extraction and manipulation and leveraged Tableau for advanced visualization techniques. Tools like Seaborn and Matplotlib were used for data visualization, while significance testing was conducted to drive business intelligence insights.
+  Conducting exploratory data analysis (EDA) with Python, including data cleaning and feature engineering. Proficient in libraries like NumPy, Pandas, and SciPy for data optimization. Utilizing SQL for data extraction and manipulation. Creating advanced visualizations with Tableau, Power BI, Seaborn, and Matplotlib. Performing significance tests to derive actionable business intelligence insights.
 </p>
 
 <p align="left">
-  With a solid foundation in machine learning, developed hands-on experience in creating models that include regression, classification, and clustering algorithms. Leveraged frameworks such as Scikit-learn and TensorFlow to implement predictive analytics while optimizing model performance through hyperparameter tuning and cross-validation techniques. This experience enables deriving valuable insights and supporting strategic decision-making using advanced analytical methods. Strong communication and problem-solving abilities, coupled with a proactive approach, foster effective collaboration and ensure the successful execution of data-driven solutions.
+  Modeling regression, classification, and clustering algorithms in Machine Learning using frameworks like Scikit-learn and TensorFlow. Optimizing models through hyperparameter tuning and cross-validation. Experienced in deploying models on cloud platforms like AWS and Azure. Capable of supporting data-driven decision-making and effective teamwork.
 </p>
 
 <p align="left"> 
