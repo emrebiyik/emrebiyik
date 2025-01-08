@@ -1,7 +1,11 @@
 <!-- I used HTML tags to align icons and maintain the current layout -->
 
 <p align="center">
-  <img src="https://github.com/emrebiyik/emrebiyik/blob/b715cfd12386f4789b6b0d2738389117c4a7daaa/github.jpg" alt="Emre Biyik GIF" width="100%" />
+  <img 
+    src="https://github.com/emrebiyik/emrebiyik/blob/b715cfd12386f4789b6b0d2738389117c4a7daaa/github.jpg" 
+    alt="Emre Biyik GIF" 
+    width="100%" 
+  />
 </p>
 
 ## About Me
